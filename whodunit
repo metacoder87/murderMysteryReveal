@@ -10,7 +10,6 @@ var weapon = "";
 var solved = false;
 
 //gMeta
-var reveal = (suspect + " did it in the " + room + " with the " + weapon +"!");
 
 if (room == 'ballroom', suspect == 'Mr. Kalehoff') {
     var weapon = "poison"; 
